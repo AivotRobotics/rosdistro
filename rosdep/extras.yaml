@@ -1,0 +1,29 @@
+python3-tiktoken-pip:
+  ubuntu:
+    pip:
+      packages: [tiktoken]
+python3-autodistill-pip:
+  ubuntu:
+    pip:
+      packages: [autodistill]
+python3-autodistill-grounded-sam-pip:
+  ubuntu:
+    pip:
+      packages: [autodistill-grounded-sam]
+python3-autodistill-yolov8-pip:
+  ubuntu:
+    pip:
+      packages: [autodistill-yolov8]
+python3-roboflow-pip:
+  ubuntu:
+    pip:
+      packages: [roboflow]
+python3-openai-whisper-pip:
+  ubuntu:
+    pip:
+      packages: [openai-whisper]
+python3-rasterio-pip:
+  ubuntu:
+    pip:
+      packages: [rasterio]
+      
