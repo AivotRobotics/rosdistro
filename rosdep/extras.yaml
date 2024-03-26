@@ -34,3 +34,7 @@ python3-anthropic-pip:
   ubuntu:
     pip:
       packages: [anthropic]
+python3-ram-pip:
+  ubuntu:
+    pip:
+      packages: [ram]
