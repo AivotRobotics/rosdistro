@@ -26,4 +26,11 @@ python3-rasterio-pip:
   ubuntu:
     pip:
       packages: [rasterio]
-      
+python3-python-doctr-pip:
+  ubuntu:
+    pip:
+      packages: [python-doctr]
+python3-anthropic-pip:
+  ubuntu:
+    pip:
+      packages: [anthropic]
